@@ -1,0 +1,510 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 12671,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/main.scss",
+			"settings":
+			{
+				"buffer_size": 15824,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/style.scss",
+			"settings":
+			{
+				"buffer_size": 24729,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 25884,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/temp/products-WB0412697/HTML/assets/css/headers/header2.css",
+			"settings":
+			{
+				"buffer_size": 5182,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/temp/products-WB0412697/HTML/assets/css/headers/header1.css",
+			"settings":
+			{
+				"buffer_size": 5845,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/temp/products-WB0412697/HTML/page_home6.html",
+			"settings":
+			{
+				"buffer_size": 37598,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package→安装程序包"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package→安装程序包"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package→安装程序包"
+			],
+			[
+				"Install Packa",
+				"Package Control: Install Package→安装程序包"
+			]
+		],
+		"width": 632.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/webwork/ECUnion/webdemo/B2B/app/styles/headers/header.css",
+		"/E/webwork/ECUnion/webdemo/B2B/dist/index.html",
+		"/D/temp/products-WB0412697/HTML/assets/css/headers/header1.css",
+		"/C/Program Files/Sublime Text 3/Data/Packages/Emmet/Emmet.sublime-settings",
+		"/E/webwork/ECUnion/webdemo/B2B/app/index.html",
+		"/E/webwork/ECUnion/webdemo/B2B/app/404.html",
+		"/C/Program Files/Sublime Text 3/Data/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/D/temp/products-WB0412697/HTML/page_home6.html",
+		"/E/webwork/ECUnion/webdemo/B2B/app/b2b.sublime-project",
+		"/D/temp/products-WB0412697/HTML/index.html",
+		"/D/temp/products-WB0412697/HTML/assets/plugins/back-to-top.js",
+		"/D/temp/products-WB0412697/HTML/assets/js/app.js",
+		"/E/webwork/ECUnion/webdemo/B2B/app/styles/main.scss",
+		"/E/webwork/ECUnion/webdemo/B2B/app/styles/plugins/styleswither.css",
+		"/E/webwork/ECUnion/webdemo/B2B/app/styles/headers/header2.css",
+		"/D/temp/products-WB0412697/HTML/assets/css/responsive.css",
+		"/E/webwork/ECUnion/webdemo/B2B/bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss",
+		"/E/webwork/ECUnion/webdemo/B2B/bower_components/font-awesome/css/font-awesome.css",
+		"/E/webwork/ECUnion/webdemo/B2B/app/styles/plugins",
+		"/E/webwork/ECUnion/webdemo/B2B/.tmp/styles/main.css",
+		"/E/webwork/ECUnion/webdemo/find2code/app/styles/main.scss",
+		"/E/webwork/ECUnion/webdemo/B2B/bower_components/font-awesome/scss/_bordered-pulled.scss",
+		"/E/webwork/ECUnion/webdemo/B2B/bower_components/font-awesome/scss/_icons.scss",
+		"/E/webwork/ECUnion/webdemo/B2B/bower_components/font-awesome/scss/font-awesome.scss",
+		"/E/webwork/ECUnion/webdemo/B2B/app/scripts/plugins/jquery.styleswither.js",
+		"/E/webwork/ECUnion/webdemo/B2B/dist/styles/main.css",
+		"/E/webwork/ECUnion/webdemo/B2B/Gruntfile.js",
+		"/E/webwork/wordpress/wp-content/themes/openmind/header.php",
+		"/E/webwork/wordpress/wp-content/themes/openmind/css/color-red.less",
+		"/D/temp/openmind/wordpress/wp-content/themes/openmind/functions.php",
+		"/E/webwork/ECUnion/webdemo/B2B/app/scripts/main.js",
+		"/C/Users/fanlg/Desktop/Test.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cssmin",
+			"mor",
+			"min-height",
+			"red",
+			"green",
+			"lenguages",
+			"topcontrol",
+			"top",
+			"handleSwitcher",
+			"wp_nav_menu()",
+			"rev",
+			"concat ",
+			"sass"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7447,
+								7447
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3979.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/styles/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15824,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2711,
+								2711
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10146.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/styles/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24729,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"open_with_edit": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1066,
+								1002
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Emmet/Emmet.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 228.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/temp/products-WB0412697/HTML/assets/css/headers/header2.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1745,
+								1745
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2147.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/temp/products-WB0412697/HTML/assets/css/headers/header1.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3772,
+								5634
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5282.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/D/temp/products-WB0412697/HTML/page_home6.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37598,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16817,
+								16817
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5456.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "app/b2b.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 148.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

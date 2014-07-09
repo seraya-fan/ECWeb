@@ -1,0 +1,373 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "styles/headers/header.css",
+			"settings":
+			{
+				"buffer_size": 4609,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 9326,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n	\"folders\":\n	[\n		{\n			\"follow_symlinks\": true,\n			\"path\": \"E:\\\\webwork\\\\ECUnion\\\\webdemo\\\\B2B\"\n		}\n	]\n}\n",
+			"file": "b2b.sublime-project",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 105,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/temp/products-WB0412697/HTML/page_home6.html",
+			"settings":
+			{
+				"buffer_size": 37598,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package→安装程序包"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package→安装程序包"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package→安装程序包"
+			],
+			[
+				"Install Packa",
+				"Package Control: Install Package→安装程序包"
+			]
+		],
+		"width": 632.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/webwork/ECUnion/webdemo/B2B/app/index.html",
+		"/D/temp/products-WB0412697/HTML/assets/css/headers/header1.css",
+		"/D/temp/products-WB0412697/HTML/index.html",
+		"/D/temp/products-WB0412697/HTML/assets/plugins/back-to-top.js",
+		"/D/temp/products-WB0412697/HTML/assets/js/app.js",
+		"/E/webwork/ECUnion/webdemo/B2B/app/styles/main.scss",
+		"/E/webwork/ECUnion/webdemo/B2B/app/styles/plugins/styleswither.css",
+		"/E/webwork/ECUnion/webdemo/B2B/app/styles/headers/header2.css",
+		"/D/temp/products-WB0412697/HTML/assets/css/responsive.css",
+		"/E/webwork/ECUnion/webdemo/B2B/app/styles/headers/header.css",
+		"/E/webwork/ECUnion/webdemo/B2B/bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss",
+		"/E/webwork/ECUnion/webdemo/B2B/bower_components/font-awesome/css/font-awesome.css",
+		"/E/webwork/ECUnion/webdemo/B2B/app/styles/plugins",
+		"/E/webwork/ECUnion/webdemo/B2B/.tmp/styles/main.css",
+		"/E/webwork/ECUnion/webdemo/find2code/app/styles/main.scss",
+		"/E/webwork/ECUnion/webdemo/B2B/bower_components/font-awesome/scss/_bordered-pulled.scss",
+		"/E/webwork/ECUnion/webdemo/B2B/bower_components/font-awesome/scss/_icons.scss",
+		"/E/webwork/ECUnion/webdemo/B2B/bower_components/font-awesome/scss/font-awesome.scss",
+		"/E/webwork/ECUnion/webdemo/B2B/app/scripts/plugins/jquery.styleswither.js",
+		"/E/webwork/ECUnion/webdemo/B2B/dist/styles/main.css",
+		"/E/webwork/ECUnion/webdemo/B2B/Gruntfile.js",
+		"/E/webwork/wordpress/wp-content/themes/openmind/header.php",
+		"/E/webwork/wordpress/wp-content/themes/openmind/css/color-red.less",
+		"/D/temp/openmind/wordpress/wp-content/themes/openmind/functions.php",
+		"/E/webwork/ECUnion/webdemo/B2B/app/scripts/main.js",
+		"/C/Users/fanlg/Desktop/Test.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lenguages",
+			"topcontrol",
+			"top",
+			"handleSwitcher",
+			"wp_nav_menu()",
+			"rev",
+			"concat ",
+			"sass"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "styles/headers/header.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1932,
+								1932
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2375.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9326,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								350,
+								350
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1767.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "b2b.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/temp/products-WB0412697/HTML/page_home6.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37598,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2976,
+								2976
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "cp936",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1026.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "b2b.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
